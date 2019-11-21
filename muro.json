@@ -1,0 +1,84 @@
+{
+  "wall": [
+    {
+      "_id": "5dc13f8332d7975d1a2230ba",
+      "abbattuto": true,
+      "costo_produzione": "$3,542.72",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 27,
+      "colore_vernice": "green",
+      "nome_architetto": "Traci",
+      "cognome_architetto": "Phelps"
+    },
+    {
+      "_id": "5dc13f8317ce5b35a5976d16",
+      "abbattuto": false,
+      "costo_produzione": "$2,368.90",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 28,
+      "colore_vernice": "brown",
+      "nome_architetto": "Hammond",
+      "cognome_architetto": "Mccarthy"
+    },
+    {
+      "_id": "5dc13f838529c16a8984347c",
+      "abbattuto": false,
+      "costo_produzione": "$2,617.67",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 37,
+      "colore_vernice": "green",
+      "nome_architetto": "Barnes",
+      "cognome_architetto": "Cain"
+    },
+    {
+      "_id": "5dc13f83811a8cbdc4a3dcc6",
+      "abbattuto": false,
+      "costo_produzione": "$2,781.73",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 25,
+      "colore_vernice": "green",
+      "nome_architetto": "Lindsey",
+      "cognome_architetto": "Pratt"
+    },
+    {
+      "_id": "5dc13f83d5cb42da794344e0",
+      "abbattuto": false,
+      "costo_produzione": "$3,527.35",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 33,
+      "colore_vernice": "brown",
+      "nome_architetto": "Virginia",
+      "cognome_architetto": "Webster"
+    },
+    {
+      "_id": "5dc13f83bbb028b818f99358",
+      "abbattuto": true,
+      "costo_produzione": "$2,093.62",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 21,
+      "colore_vernice": "brown",
+      "nome_architetto": "Carson",
+      "cognome_architetto": "Albert"
+    },
+    {
+      "_id": "5dc13f83db2c9ec98845e486",
+      "abbattuto": true,
+      "costo_produzione": "$3,286.58",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 27,
+      "colore_vernice": "brown",
+      "nome_architetto": "Foreman",
+      "cognome_architetto": "Cleveland"
+    },
+    {
+      "_id": "5dc13f83f71e5786b8b158cf",
+      "abbattuto": true,
+      "costo_produzione": "$2,500.26",
+      "paesaggio": "https://picsum.photos/200",
+      "anni_costruzione": 26,
+      "colore_vernice": "brown",
+      "nome_architetto": "Cannon",
+      "cognome_architetto": "Brennan"
+    }
+  ]
+}
